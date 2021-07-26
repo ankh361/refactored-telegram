@@ -1,3 +1,8 @@
 Instructions for accessing this site to the server
 -------------------------------------------------
 Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+
+Installation on IIS
+-------------------
+
+content goes here
